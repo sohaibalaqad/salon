@@ -1,0 +1,1 @@
+name: sohaib , age: 21 , Section: makeup , date: 14/2/2021 , duration:1.2 , price: $150.0
